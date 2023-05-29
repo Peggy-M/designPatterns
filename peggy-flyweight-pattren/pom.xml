@@ -7,7 +7,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>peggy-flyweight-pattren-01</artifactId>
+    <artifactId>peggy-flyweight-pattren</artifactId>
     <packaging>jar</packaging>
 
     <name>peggy-flyweight-pattren-01</name>

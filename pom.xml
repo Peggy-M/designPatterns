@@ -9,7 +9,8 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>peggy-flyweight-pattren-01</module>
+        <module>peggy-flyweight-pattren</module>
+        <module>peggy-proxy-pattern</module>
     </modules>
 
     <properties>
