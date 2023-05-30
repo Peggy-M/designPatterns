@@ -11,6 +11,7 @@
     <modules>
         <module>peggy-flyweight-pattren</module>
         <module>peggy-proxy-pattern</module>
+        <module>peggy-observer-pattern</module>
     </modules>
 
     <properties>
